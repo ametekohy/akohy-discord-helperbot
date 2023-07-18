@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+dist/
+
+# IDE specific files
+.vscode/
+.vs/
+
+# Other specific files and directories you want to ignore
+...
+
+# Ignore files or directories in the "discord_bot" folder
+discord_bot/specific-file-1
+discord_bot/specific-directory/
+
+# Ignore files or directories in the "website" folder
+website/specific-file-2
+website/specific-directory/
