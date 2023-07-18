@@ -1,0 +1,23 @@
+{
+  "name": "akohy-discord-helperbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ametekohy/akohy-discord-helperbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ametekohy/akohy-discord-helperbot/issues"
+  },
+  "homepage": "https://github.com/ametekohy/akohy-discord-helperbot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
